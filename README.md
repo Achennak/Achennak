@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web Development Project**
+- 👯 I’m looking to collaborate on **Web Development Projects,Backend or Full stack Projects**
 
-- 🤝 I’m looking for help with **Machine Learning Project**
+
 
 - 📫 How to reach me **chennakeshava.s@northeastern.edu**
 
