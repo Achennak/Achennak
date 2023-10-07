@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chennakeshava.s@northeastern.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nhqCyEm5khKBqctReH9PoPtc1UxickQq/edit?usp=sharing&ouid=100769451465394031465&rtpof=true&sd=true](https://docs.google.com/document/d/1nhqCyEm5khKBqctReH9PoPtc1UxickQq/edit?usp=sharing&ouid=100769451465394031465&rtpof=true&sd=true)
+- 📄 Know about my experiences https://docs.google.com/document/d/1PsQXIuNUXK_s2TBIaUDOO5F4YmW0TOns/edit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
