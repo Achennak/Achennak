@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshaya Chennakeshava</h1>
 <h3 align="center">You become what you believe!!</h3>
 
-- 🌱 I’m currently learning **Machine Learning ,AI**
+- 🌱 I’m currently learning **Distributed Systems and System Design**
 
 - 👯 I’m looking to collaborate on **Web Development Projects,Backend or Full stack Projects**
 
