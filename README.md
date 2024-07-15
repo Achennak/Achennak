@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **chennakeshava.s@northeastern.edu or +18578914362** 
 
-- 📄 Know about my experiences  https://docs.google.com/document/d/1EOZGXrlcnfWMgMJ71WYjjDYFFvBVv6mSXF2JIC_PsE8/edit?usp=sharing
+- 📄 Know about my experiences https://docs.google.com/document/d/1EOZGXrlcnfWMgMJ71WYjjDYFFvBVv6mSXF2JIC_PsE8/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
