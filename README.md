@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akshaya Chennakeshava</h1>
 <h3 align="center">You become what you believe!!</h3>
 
-- 🌱 I’m currently learning **Distributed Systems**
-
 - 👯 I’m looking to collaborate on **Web Development Projects,Backend or Full stack Projects**
 
 
+- 📫 How to reach me **chennakeshava.s@northeastern.edu or +18578914362** 
 
-- 📫 How to reach me **chennakeshava.s@northeastern.edu**
-
-- 📄 Know about my experiences https://docs.google.com/document/d/1PsQXIuNUXK_s2TBIaUDOO5F4YmW0TOns/edit
+- 📄 Know about my experiences  https://docs.google.com/document/d/1EOZGXrlcnfWMgMJ71WYjjDYFFvBVv6mSXF2JIC_PsE8/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
